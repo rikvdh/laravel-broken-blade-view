@@ -2,3 +2,5 @@
 @php
     $hello = 'goodbye';
 @endphp
+
+{{ $hello }}
